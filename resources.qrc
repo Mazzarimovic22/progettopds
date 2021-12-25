@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>edit.png</file>
+        <file>delete2.png</file>
+        <file alias="flat-edit.png">Icons/edit.png</file>
+        <file alias="add.png">Icons/add.png</file>
+        <file alias="flat-trash.png">Icons/trash.png</file>
+         <file alias="add2.png">Icons/add2.png</file>
+    </qresource>
+    <qresource prefix="ToDoApps">
+    </qresource>
+</RCC>
