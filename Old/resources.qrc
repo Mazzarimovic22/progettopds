@@ -1,5 +1,0 @@
-<!DOCTYPE RCC><RCC version="1.0">
-    <qresource>
-        <file alias="edit-img.png">img/edit.png</file>
-    </qresource>
-</RCC>
